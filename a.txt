@@ -2,3 +2,6 @@ Testando uma atualização de arquivo
 
 
 Enviando a funcionalidade x 
+
+
+Enviando a funcionalidade z
